@@ -1,6 +1,7 @@
 ### Bem vindo ao meu perfil! 💞
 
-- 🔭 Estudando front-end 
+Sou a Giovana Campos e Tenho 16 anos
+- 🔌 Estudando front-end 
 - 😄 Pronomes: ela/dela
 
 <div align="center">
