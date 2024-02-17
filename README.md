@@ -2,7 +2,8 @@
 <div align="center">
  <h1> Welcome to my profile!</h1>
 </div>
- <p> - Studying front-end</p>
+ <p> 👩🏻‍💻 I'm currently studying front-end
+</p>
 
 <div align="center">
   <a href="https://github.com/ProjectCampos">
