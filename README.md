@@ -15,10 +15,8 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,cs,php" />
   </a>
  <h3> Web Sites </h3>
-  <a href="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-  
+ [!Instagram](https://img.shields.io/website?label=ProjectCampos.com&style=for-the-badge&url=https://ProjectCampos
+ 
 
 
   
