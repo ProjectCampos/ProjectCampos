@@ -18,6 +18,7 @@
  <div style="display: inline_block"><br/>
   <img align="center" alt="insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
 
-
+</div>
+</br>
   
  
