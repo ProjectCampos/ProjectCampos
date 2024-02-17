@@ -10,8 +10,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ProjectCampos&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectCampos&layout=compact&langs_count=7&theme=buefy"/>
 </div>
-  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <div>
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  </div>
+
   <img align="right" alt="" height="150" style="border-radius:50;" src="">
 
   
