@@ -2,8 +2,9 @@
 
 <div align="center">
 <p> Bem vindo ao meu perfil!</p>
-</div>
-- 🔌 Estudando front-end 
+
+- 🔌 Estudando front-end
+ </div>
 
 <div align="center">
   <a href="https://github.com/ProjectCampos">
