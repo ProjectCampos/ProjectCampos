@@ -14,7 +14,7 @@
   <img align="center" alt="gi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gi-php" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-  <img align="right" alt="gi-pic" height="150" style="border-radius:50;" src="https://i.makeagif.com/media/3-24-2016/JrSj8G.gif">
+  <img align="right" alt="gi-pic" height="150" style="border-radius:50;" src="">
 </div>
   
 ##
@@ -24,7 +24,7 @@
  	<a href="https://www.twitch.tv/campoxg" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/campoxg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "giovana.campos19@etec.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  ![Snake animation](https://github.com/ProjectCampos/ProjectCampos/blob/output/github-contribution-grid-snake.svg)
+  
   </div>  
   
  
