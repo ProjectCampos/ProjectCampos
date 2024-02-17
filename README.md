@@ -1,10 +1,12 @@
-### OLÁ, EU SOU A GIOVANA CAMPOS
-
+###
 <div align="center">
+OLÁ, EU SOU A GIOVANA CAMPOS
+</div>
+
 <p> Bem vindo ao meu perfil!</p>
 
-##- 🔌 Estudando front-end
- </div>
+- 🔌 Estudando front-end
+
 
 <div align="center">
   <a href="https://github.com/ProjectCampos">
