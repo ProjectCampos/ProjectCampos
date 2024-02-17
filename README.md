@@ -13,7 +13,7 @@
 
 
  <div>
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,mysql,php)](https://skillicons.dev)
+  <a href= "[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,mysql,php)](https://skillicons.dev)"></a>
  </div>
 
 <div>
