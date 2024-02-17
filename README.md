@@ -19,7 +19,7 @@
  <a href="https://instagram.com/campoxg"><img align="center" alt="insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
  </a>
  </a>
-   <a href="https://instagram.com/campoxg"><img align="center" alt="insta" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+   <a href="https://gmail.com/campoxg"><img align="center" alt="insta" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
  </a>
 </div>
   
