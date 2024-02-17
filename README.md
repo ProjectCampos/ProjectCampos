@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/ProjectCampos">
-  <img height="150em"src="https://github-readme-stats.vercel.app/api/?username=ProjectCampos)](https://github.com/ProjectCampos/github-readme-stats)"/>
+  <img height="150em"src="https://github-readme-stats.vercel.app/api?username=ProjectCampos&showicons"true&theme=buefy&include_all-commits=true&count_private-true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectCampos&layout=compact&langs_count=7&theme=buefy"/>
 </div>
 
