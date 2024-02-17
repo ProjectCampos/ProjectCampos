@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,cs,php" />
   </a>
  <h3> Web Sites </h3>
- [!Instagram](https://img.shields.io/website?label=ProjectCampos.com&style=for-the-badge&url=https://ProjectCampos
+ [!Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/campoxg?igsh=MWRkbTNnNXNscXQwYg%3D%3D&utm_source=qr)
  
 
 
