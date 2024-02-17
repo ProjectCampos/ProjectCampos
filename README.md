@@ -1,7 +1,7 @@
 ### Bem vindo ao meu perfil! 💞
 
 - 🔌 Estudando front-end 
-- 😄 Pronomes: ela/dela
+- 
 
 <div align="center">
   <a href="https://github.com/ProjectCampos">
