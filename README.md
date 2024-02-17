@@ -11,10 +11,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectCampos&layout=compact&langs_count=7&theme=buefy"/>
 </div>
   
- <div style="display: inline_block"><br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   <img align="right" alt="" height="150" style="border-radius:50;" src="">
-</div>
+
   
 ##
   <div>
