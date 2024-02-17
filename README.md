@@ -1,5 +1,5 @@
 ###  OLÁ, EU SOU A GIOVANA CAMPOS
-<div>
+<div align="center">
 <p> Bem vindo ao meu perfil!</p>
 </div>
 - 🔌 Estudando front-end
