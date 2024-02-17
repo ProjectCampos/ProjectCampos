@@ -2,7 +2,7 @@
 <div align="center">
  <h1> Welcome to my profile!</h1>
 </div>
- <p> Studying front-end</p>
+ <p> - Studying front-end</p>
 
 
 <div align="center">
