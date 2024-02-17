@@ -3,7 +3,7 @@
 <div align="center">
 <p> Bem vindo ao meu perfil!</p>
 
-- 🔌 Estudando front-end
+##- 🔌 Estudando front-end
  </div>
 
 <div align="center">
