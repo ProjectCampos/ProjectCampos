@@ -14,9 +14,9 @@
 
 
   <h2> Web Sites </h1>
-<p align="center">
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cs" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cs,php" />
   </a>
 </p>
   
