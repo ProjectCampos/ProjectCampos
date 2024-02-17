@@ -1,8 +1,8 @@
-###  OLÁ, EU SOU A GIOVANA CAMPOS
+###  HI, I AM GIOVANA CAMPOS
 <div align="center">
- <h1> Bem vindo ao meu perfil!</h1>
+ <h1> Welcome to my profile!</h1>
 </div>
- <p> Estudando front-end</p>
+ <p> Studying front-end</p>
 
 
 <div align="center">
