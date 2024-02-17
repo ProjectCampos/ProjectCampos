@@ -4,7 +4,6 @@
 <p> Bem vindo ao meu perfil!</p>
 </div>
 - 🔌 Estudando front-end 
-- 
 
 <div align="center">
   <a href="https://github.com/ProjectCampos">
