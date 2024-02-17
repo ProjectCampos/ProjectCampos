@@ -1,4 +1,4 @@
-###  HI, I AM GIOVANA CAMPOS
+###  HI, I'M GIOVANA CAMPOS
 <div align="center">
  <h1> Welcome to my profile!</h1>
 </div>
