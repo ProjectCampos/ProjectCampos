@@ -15,17 +15,13 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,cs,php" />
   </a>
 <h3> Web Sites </h3>
- <div style="display: inline_block">
-  <img align="center" alt="insta" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white https://www.instagram.com/campoxg?igsh=MWRkbTNnNXNscXQwYg%3D%3D&utm_source=qr">
- </img>
+ <div>
+ <a href="https://instagram.com/campoxg" target="_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">target="_blank
+ </a>
   <img align="center" alt="insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
- </img>
+ </a>
   <img align="center" alt="insta" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
- </img>
-  <img align="center" alt="insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
- </img>
-
-
+ </a>
 </div>
   
  
