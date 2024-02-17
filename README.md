@@ -14,7 +14,7 @@
   <img align="center" alt="gi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gi-php" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-  <img align="right" alt="gi-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/f92f0725debded8253e60ee3d94ce964.gif">
+  <img align="right" alt="gi-pic" height="150" style="border-radius:50;" src="https://i.pinimg.com/originals/c6/f1/3b/c6f13b01a53d7152d7f235838efe5a09.gif">
 </div>
   
 ##
