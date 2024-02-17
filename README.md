@@ -14,7 +14,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,cs,php" />
   </a>
-<h3> Web Sites </h3>
+<h3> Social Media </h3>
  <div>
  <a href="https://instagram.com/campoxg"><img align="center" alt="insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
  </a> 
