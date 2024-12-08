@@ -13,7 +13,7 @@
 
  <h3> My Skills </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cs,php" />
+    <img src="https://skillicons.dev/icons?i=js,html,css" />
   </a>
 <h3> Social Media </h3>
  <div>
