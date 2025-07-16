@@ -2,7 +2,7 @@
 <div align="center">
  <h1> Welcome to my profile!</h1>
 </div>
- <p> 👩🏻‍💻 I'm currently studying front-end
+ <p> 👩🏻‍💻 I am currently working at Atlas Inovações as a Junior Support Analyst 
 </p>
 
 <div align="center">
