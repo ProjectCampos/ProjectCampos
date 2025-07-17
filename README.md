@@ -26,7 +26,7 @@
 
 <br>
 
-👩🏻‍💻 Constantly expanding my IT skills.
+👩🏻‍💻 Constantly expanding my T.I skills.
 
 ---
 
