@@ -26,7 +26,7 @@
 
 <br>
 
-👩🏻‍💻 I am currently working at Atlas Inovações as a Junior Support Analyst and constantly expanding my skills in these areas.
+👩🏻‍💻 Constantly expanding my IT skills.
 
 ---
 
