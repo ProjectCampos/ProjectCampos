@@ -54,15 +54,3 @@
     />
   </a>
 </p>
-
-<!-- GitHub Stats -->
-<details>
-  <summary>Github Stats ⚡</summary>
-  <br>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <!-- GitHub Stats Cards -->
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=projectcampos&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github&card_width=100" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=projectcampos&theme=midnight-purple&layout=compact&card_width=100">
-</div>
-  
-</details>
