@@ -1,56 +1,61 @@
-# Giovana Campos
-
-<br>
-
-<!-- Contact Badges -->
-<p align="center">
-  <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/giovana-campos-/" style="text-decoration: none;">
-    <img alt="LinkedIn" title="Connect with me on LinkedIn" 
-         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=634781" 
-         style="height: 27px;" /></a>
-
-  <!-- Gmail Badge -->
-  <a href="giovanacampos3103@gmail.com" style="text-decoration: none;">
-    <img alt="Gmail" title="Send me an email" 
-         src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=634781" 
-         style="height: 27px;"/></a>
-           <a href="https://instagram.com/campoxg" style="text-decoration: none;">
-    <img alt="Instagram" title="My profile in Instagram" 
-         src="https://custom-icon-badges.demolab.com/badge/-Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=white&labelColor=634781" 
-         style="height: 27px;" /></a>
-
-<!-- GitHub Logo -->
-
-<img align="right"  src="https://media.tenor.com/9W1BZ1647CAAAAAi/the-loveable-zoo-cat.gif" width="90px" />
-
-<br>
-
-👩🏻‍💻 Constantly expanding my T.I skills.
-
----
-
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> Stacks </h3>
-
 <div align="center">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B2A55,100:634781&height=170&section=header&text=Giovana%20Campos&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Analista%20de%20Suporte%20%7C%20Automa%C3%A7%C3%A3o%20com%20IA&descSize=16&descAlignY=58" width="100%" alt="Giovana Campos" />
+
+<p>
+  <a href="https://www.linkedin.com/in/giovana-campos-/"><img src="https://img.shields.io/badge/LinkedIn-634781?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:giovanacampos3103@gmail.com"><img src="https://img.shields.io/badge/E--mail-634781?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="https://instagram.com/campoxg"><img src="https://img.shields.io/badge/Instagram-634781?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
 </div>
 
----
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%23a27bd8" width="22" /> Sobre mim
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F2ED&width=500&center=true&vCenter=true&size=17&lines=Knowledge+is+boldness;Better+than+yesterday" 
-      alt="Typing SVG" 
-    />
-  </a>
-</p>
+<img src="https://api.iconify.design/lucide/briefcase-business.svg?color=%23a27bd8" width="16" /> &nbsp;**Analista de Suporte Jr.** na **Atlas Inovações**, integrando o time de **Automação com IA**<br>
+<img src="https://api.iconify.design/lucide/bot.svg?color=%23a27bd8" width="16" /> &nbsp;Desenvolvimento de automações e fluxos com IA para otimizar o atendimento ao cliente<br>
+<img src="https://api.iconify.design/lucide/headset.svg?color=%23a27bd8" width="16" /> &nbsp;Experiência em suporte ao cliente e gestão de tickets no **Zendesk**<br>
+<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23a27bd8" width="16" /> &nbsp;Graduada em **Computação para Internet** · Técnica em **Informática para Internet** (Etec)<br>
+<img src="https://api.iconify.design/lucide/map-pin.svg?color=%23a27bd8" width="16" /> &nbsp;Ribeirão Pires – SP, Brasil
+
+<details>
+<summary><b>English version</b></summary>
+<br>
+
+<img src="https://api.iconify.design/lucide/briefcase-business.svg?color=%23a27bd8" width="16" /> &nbsp;**Junior Support Analyst** at **Atlas Inovações**, member of the **AI Automation** team<br>
+<img src="https://api.iconify.design/lucide/bot.svg?color=%23a27bd8" width="16" /> &nbsp;Building AI-powered automations and workflows to optimize customer support<br>
+<img src="https://api.iconify.design/lucide/headset.svg?color=%23a27bd8" width="16" /> &nbsp;Experience in customer support and ticket management with **Zendesk**<br>
+<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23a27bd8" width="16" /> &nbsp;Degree in **Internet Computing** · IT for Internet technician (Etec)<br>
+<img src="https://api.iconify.design/lucide/map-pin.svg?color=%23a27bd8" width="16" /> &nbsp;Ribeirão Pires – SP, Brazil
+
+</details>
+
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%23a27bd8" width="22" /> Tecnologias e ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,cs,mysql&theme=dark" alt="Linguagens" />
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Ferramentas" />
+<br><br>
+<img src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white" alt="Zendesk" />
+
+</div>
+
+## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23a27bd8" width="22" /> Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [**Essence Gourmet**](https://github.com/ProjectCampos/Essence-Gourmet) · [site](https://projectcampos.github.io/Essence-Gourmet/) | E-commerce de doces artesanais com carrinho funcional e design minimalista | HTML · CSS · JavaScript |
+| [**Etec-MCM**](https://github.com/ProjectCampos/Etec-MCM) | Projetos do curso Técnico em Informática para Internet | HTML · CSS · Java |
+| [**php**](https://github.com/ProjectCampos/php) | Site institucional com painel administrativo e banco de dados | PHP · MySQL |
+| [**SW**](https://github.com/ProjectCampos/SW) | Exercícios de programação orientada a objetos | C# |
+
+## <img src="https://api.iconify.design/lucide/chart-no-axes-column.svg?color=%23a27bd8" width="22" /> Estatísticas
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectCampos&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=A27BD8&text_color=c9d1d9" alt="Linguagens mais usadas" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ProjectCampos&hide_border=true&background=0d1117&ring=A27BD8&fire=A27BD8&currStreakLabel=A27BD8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Sequência de contribuições" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:634781,100:3B2A55&height=90&section=footer" width="100%" />
